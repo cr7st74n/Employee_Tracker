@@ -32,6 +32,9 @@ Using Node.js, Inquirer, and MySQL we can manage a simple app to manage the empl
 
 
 ## Usage
+![image](https://user-images.githubusercontent.com/34308684/183274219-795b2d52-5244-44df-8462-55407e6a25f9.png)
+
+![image](https://user-images.githubusercontent.com/34308684/183274225-7d0f349a-71db-4c04-98f6-fbbf4a191850.png)
 
 
 ## License
